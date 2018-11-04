@@ -1,0 +1,17 @@
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\obj\Debug\netcoreapp2.1\UnitTestFizzBuzz.csprojAssemblyReference.cache
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\obj\Debug\netcoreapp2.1\UnitTestFizzBuzz.csproj.CoreCompileInputs.cache
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\obj\Debug\netcoreapp2.1\UnitTestFizzBuzz.AssemblyInfoInputs.cache
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\obj\Debug\netcoreapp2.1\UnitTestFizzBuzz.AssemblyInfo.cs
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\bin\Debug\netcoreapp2.1\UnitTestFizzBuzz.deps.json
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\bin\Debug\netcoreapp2.1\UnitTestFizzBuzz.runtimeconfig.json
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\bin\Debug\netcoreapp2.1\UnitTestFizzBuzz.runtimeconfig.dev.json
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\bin\Debug\netcoreapp2.1\UnitTestFizzBuzz.dll
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\bin\Debug\netcoreapp2.1\UnitTestFizzBuzz.pdb
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.dll
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.pdb
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\obj\Debug\netcoreapp2.1\UnitTestFizzBuzz.csproj.CopyComplete
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\obj\Debug\netcoreapp2.1\UnitTestFizzBuzz.dll
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\UnitTestFizzBuzz\obj\Debug\netcoreapp2.1\UnitTestFizzBuzz.pdb

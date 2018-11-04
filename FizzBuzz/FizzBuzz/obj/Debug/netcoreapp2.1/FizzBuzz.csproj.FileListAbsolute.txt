@@ -1,0 +1,11 @@
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.deps.json
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.runtimeconfig.json
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.runtimeconfig.dev.json
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.dll
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.pdb
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.csprojAssemblyReference.cache
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.csproj.CoreCompileInputs.cache
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfoInputs.cache
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfo.cs
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.dll
+A:\OneDrive\GitHub\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.pdb

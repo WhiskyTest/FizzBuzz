@@ -36,5 +36,11 @@ namespace UnitTestFizzBuzz
         {
             Assert.AreEqual("FizzBuzz", _fizzBuzz.Print(15));
         }
+
+        [TestMethod]
+        public void IsDivisibleBy()
+        {
+            Assert.AreEqual(true, _fizzBuzz.IsDivisibleBy(5, 5));
+        }
     }
 }
